@@ -1,2 +1,2 @@
-let a = 6;
+const b = 5;
 let gitIsShit = true;
